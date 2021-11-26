@@ -12,4 +12,5 @@ Modules: Standard Input/Output Streams Library.
 To get started, please open the Terminal application, switch to the directory containing the source code, and enter the following to compile and run the program:
 
 g++ Fibonacci.cpp -o Fibonacci
+
 ./Fibonacci
