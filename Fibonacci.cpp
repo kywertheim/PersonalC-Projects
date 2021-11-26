@@ -120,6 +120,7 @@ int main()
 		}
 	}
 	std::cout<<"See you next time.";
+	return 0;
 }
 
 //The simple recursive function used to generate the Fibonacci sequence.
